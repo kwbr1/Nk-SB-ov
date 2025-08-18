@@ -1,4 +1,7 @@
 [
+  {
+    "chunk": [1746, 793],
+    "pixelMap": [
 "459,609: darkblue",
 "460,609: darkblue",
 "461,608: darkblue",
@@ -9180,4 +9183,6 @@
 "641,597: blue",
 "641,598: darkblue",
 "641,599: darkblue"
+    ]
+  }
 ]
