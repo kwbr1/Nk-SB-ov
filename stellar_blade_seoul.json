@@ -4092,7 +4092,7 @@
 "541,586: darkblue",
 "541,587: darkblue",
 "541,588: lightcyan",
-"541,589: lightblue",
+"541,589: lightcyan",
 "541,590: darkblue",
 "541,591: darkblue",
 "541,592: darkblue",
@@ -4675,8 +4675,8 @@
 "549,585: darkblue",
 "549,586: darkblue",
 "549,587: darkblue",
-"549,588: lightindigo",
-"549,589: lightblue",
+"549,588: white",
+"549,589: blue",
 "549,590: blue",
 "549,591: lightblue",
 "549,592: white",
@@ -9236,4 +9236,3 @@
     ]
   }
 ]
-
