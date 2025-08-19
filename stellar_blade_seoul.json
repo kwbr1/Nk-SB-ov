@@ -2,12 +2,12 @@
   {
     "chunk": [1746, 793],
     "pixelMap": [
+      
+    "_comment_": "'Dorolong drawing in Seoul, South Korea",
+    "_comment_": "'SHIFT UP' writing in Seoul, South Korea",
 
-      // Dorolong drawing in Seoul, South Korea
-      // 'SHIFT UP' writing in Seoul, South Korea
-
-
-      // 'DORO' writing in Seoul, South Korea
+      
+    "_comment_": "'DORO' writing in Seoul, South Korea",
 "604,539: black",
 "604,540: black",
 "604,541: black",
@@ -252,8 +252,7 @@
 "612,564: black",
 "612,565: black",
     
-
-      // 'Stellar Blade' logo in Seoul, South Korea
+    "_comment_": "'Stellar Blade' logo in Seoul, South Korea",
 "458,615: blue",
 "458,616: blue",
 "458,617: blue",
@@ -9531,6 +9530,7 @@
     ]
   }
 ]
+
 
 
 
