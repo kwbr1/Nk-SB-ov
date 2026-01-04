@@ -1,17 +1,17 @@
 {
   "overlays": [
-    { "url": "https://i.imgur.com/crn1ArF.png", "chunk": [1746, 793], "coords": [456, 548], "name": "luke77_7 #1" },
+    { "url": "https://i.imgur.com/crn1ArF.png", "chunk": [1746, 793], "coords": [456, 548], "name": "luke77_7 (id: 59504) #1" },
     { "url": "https://i.imgur.com/ILxxSz2.png", "chunk": [1746, 793], "coords": [604, 524], "name": "luke77_7 #2" },
-    { "url": "https://i.imgur.com/tlG2RPV.png", "chunk": [1746, 793], "coords": [535, 621], "name": "Gam #1" },
-    { "url": "https://i.imgur.com/Biiu2Nq.png", "chunk": [1746, 793], "coords": [595, 621], "name": "SolidKnife #1" },
-    { "url": "https://i.imgur.com/LafetzK.png", "chunk": [394, 737], "coords": [193, 770], "name": "Michaeru #1" },
-    { "url": "https://i.imgur.com/7P822G1.png", "chunk": [394, 737], "coords": [179, 844], "name": "luke77_7 (id: 59504) #3" },
-    { "url": "https://i.imgur.com/Y8w4Ect.png", "chunk": [394, 737], "coords": [318, 784], "name": "luke77_7 (id: 59504) #4" },
-    { "url": "https://i.imgur.com/otHe9f1.png", "chunk": [352, 815], "coords": [352, 815], "name": "luke77_7 #1" }
+    { "url": "https://i.imgur.com/tlG2RPV.png", "chunk": [1746, 793], "coords": [535, 621], "name": "Gam (id: 4132948) #1" },
+    { "url": "https://i.imgur.com/Biiu2Nq.png", "chunk": [1746, 793], "coords": [595, 621], "name": "SolidKnife (id: 6550119) #1" },
+    { "url": "https://i.imgur.com/O81DYxL.png", "chunk": [394, 737], "coords": [193, 770], "name": "Michaeru (id: 4023058 #1" },
+    { "url": "https://i.imgur.com/7P822G1.png", "chunk": [394, 737], "coords": [179, 844], "name": "luke77_7 #3" },
+    { "url": "https://i.imgur.com/Y8w4Ect.png", "chunk": [394, 737], "coords": [318, 784], "name": "luke77_7 #4" },
+    { "url": "https://i.imgur.com/otHe9f1.png", "chunk": [352, 815], "coords": [352, 815], "name": "NiceGuy (id: 11803442) #1" }
   ],
   "regions": {
     "seoul": {
-      "name": "🇰🇷 Seoul, Korea",
+      "name": "Seoul, Korea",
       "lat": 37.494037629055526,
       "lng": 127.01469693427731,
       "zoom": 14.004703603406677,
@@ -19,7 +19,7 @@
       "progress": "completed"
     },
     "doroland": {
-      "name": "🇺🇸 Doro Land, United States",
+      "name": "Doro Land, US",
       "lat": 44.85244220940125,
       "lng": -110.69323275322265,
       "zoom": 13.837536574683238,
@@ -27,7 +27,7 @@
       "progress": "in progress"
     },
     "california": {
-      "name": "🇺🇸 California, United States",
+      "name": "California, US",
       "lat": 34.43272084213703,
       "lng": -118.04985384697267,
       "zoom": 13.935346244077452,
@@ -36,3 +36,4 @@
     }
   }
 }
+
