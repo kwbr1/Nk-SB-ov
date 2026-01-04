@@ -7,7 +7,7 @@
     { "url": "https://i.imgur.com/O81DYxL.png", "chunk": [394, 737], "coords": [193, 770], "name": "Michaeru (id: 4023058 #1" },
     { "url": "https://i.imgur.com/7P822G1.png", "chunk": [394, 737], "coords": [179, 844], "name": "luke77_7 #3" },
     { "url": "https://i.imgur.com/Y8w4Ect.png", "chunk": [394, 737], "coords": [318, 784], "name": "luke77_7 #4" },
-    { "url": "https://i.imgur.com/otHe9f1.png", "chunk": [352, 815], "coords": [380, 32], "name": "NiceGuy (id: 11803442) #1" }
+    { "url": "https://i.imgur.com/hhGWa8P.png", "chunk": [352, 815], "coords": [380, 32], "name": "NiceGuy (id: 11803442) #1" }
   ],
   "regions": {
     "seoul": {
@@ -36,6 +36,7 @@
     }
   }
 }
+
 
 
 
