@@ -24,7 +24,7 @@
       "lng": -110.69323275322265,
       "zoom": 13.837536574683238,
       "type": "location",
-      "progress": "in progress"
+      "progress": "completed"
     },
     "california": {
       "name": "California, US",
@@ -36,6 +36,7 @@
     }
   }
 }
+
 
 
 
