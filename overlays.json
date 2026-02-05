@@ -12,6 +12,7 @@
     { "url": "https://i.imgur.com/hhGWa8P.png", "chunk": [352, 815], "coords": [380, 32], "name": "NiceGuy (id: 11803442) #1" },
     { "url": "https://i.imgur.com/0sLCCpy.png", "chunk": [1763, 786], "coords": [197, 207], "name": "NiceGuy #2" },
     { "url": "https://i.imgur.com/BQ0sbFD.png", "chunk": [1763, 785], "coords": [559, 839], "name": "NiceGuy #3" }
+    { "url": "https://i.imgur.com/Cad1yI0.png", "chunk": [586, 782], "coords": [71, 932], "name": "SlipperySnowball (id: 2644625) #1" }
   ],
   "regions": {
     "seoul": {
@@ -37,28 +38,25 @@
       "zoom": 11.35266015617781,
       "type": "location",
       "progress": "in progress"
-    },    "california": {
+    },
+    "california": {
       "name": "California, US",
       "lat": 34.43272084213703,
       "lng": -118.04985384697267,
       "zoom": 13.935346244077452,
       "type": "location",
       "progress": "completed"
+    },
+    "washington": {
+      "name": "Washington, US",
+      "lat": 38.964124560997604,
+      "lng": -76.9768069719726,
+      "zoom": 15.364380661211596,
+      "type": "location",
+      "progress": "completed"
     }
   }
 }
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
