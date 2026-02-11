@@ -57,6 +57,7 @@
       "progress": "completed"
     },
     "matogrosso": {
+      "name": "Mato Grosso, BR",
       "lat": -11.66024134219131,
       "lng": -51.91374056572266,
       "zoom": 14.898127185383599,
@@ -65,6 +66,7 @@
     }
   }
 }
+
 
 
 
