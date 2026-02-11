@@ -24,14 +24,6 @@
       "type": "location",
       "progress": "completed"
     },
-    "doroland": {
-      "name": "Doro Land, US",
-      "lat": 44.85244220940125,
-      "lng": -110.69323275322265,
-      "zoom": 13.837536574683238,
-      "type": "location",
-      "progress": "completed"
-    },
     "bigeve": {
       "name": "Big Eve, Korea",
       "lat": 38.488682819082,
@@ -63,12 +55,14 @@
       "zoom": 14.898127185383599,
       "type": "location",
       "progress": "completed"
+    },
+    "doroland": {
+      "name": "Doro Land, US",
+      "lat": 44.85244220940125,
+      "lng": -110.69323275322265,
+      "zoom": 13.837536574683238,
+      "type": "location",
+      "progress": "completed"
     }
   }
 }
-
-
-
-
-
-
