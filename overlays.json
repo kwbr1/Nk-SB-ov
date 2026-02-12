@@ -13,7 +13,7 @@
     { "url": "https://i.imgur.com/0sLCCpy.png", "chunk": [1763, 786], "coords": [197, 207], "name": "NiceGuy #2" },
     { "url": "https://i.imgur.com/BQ0sbFD.png", "chunk": [1763, 785], "coords": [559, 839], "name": "NiceGuy #3" },
     { "url": "https://i.imgur.com/Cad1yI0.png", "chunk": [586, 782], "coords": [71, 932], "name": "SlipperySnowball (id: 2644625) #1" },
-    { "url": "https://i.imgur.com/prFfqQm.png", "chunk": [586, 782], "coords": [71, 932], "name": "luke77_7 #5" },
+    { "url": "https://i.imgur.com/prFfqQm.png", "chunk": [728, 1090], "coords": [597, 758], "name": "luke77_7 #5" },
     { "url": "https://i.imgur.com/dLQh6ki.png", "chunk": [1746, 793], "coords": [643, 597], "name": "Michaeru #2" }
   ],
   "regions": {
@@ -67,4 +67,5 @@
     }
   }
 }
+
 
