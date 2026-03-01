@@ -14,7 +14,8 @@
     { "url": "https://i.imgur.com/BQ0sbFD.png", "chunk": [1763, 785], "coords": [559, 839], "name": "NiceGuy #3" },
     { "url": "https://i.imgur.com/Cad1yI0.png", "chunk": [586, 782], "coords": [71, 932], "name": "SlipperySnowball (id: 2644625) #1" },
     { "url": "https://i.imgur.com/prFfqQm.png", "chunk": [728, 1090], "coords": [597, 758], "name": "luke77_7 #5" },
-    { "url": "https://i.imgur.com/dLQh6ki.png", "chunk": [1746, 793], "coords": [643, 597], "name": "Michaeru #2" }
+    { "url": "https://i.imgur.com/dLQh6ki.png", "chunk": [1746, 793], "coords": [643, 597], "name": "Michaeru #2" },
+    { "url": "https://i.imgur.com/fRVN1vM.png", "chunk": [756, 1163], "coords": [987, 458], "name": "luke77_7 #6" }
   ],
   "regions": {
     "seoul": {
@@ -38,6 +39,14 @@
       "lat": 34.43272084213703,
       "lng": -118.04985384697267,
       "zoom": 13.935346244077452,
+      "type": "location",
+      "progress": "completed"
+    },
+        "saopaulo": {
+      "name": "São Paulo, BR",
+      "lat": -23.804082280880422,
+      "lng": -46.93297884697266,
+      "zoom": 15.7267769973265,
       "type": "location",
       "progress": "completed"
     },
@@ -67,5 +76,6 @@
     }
   }
 }
+
 
 
