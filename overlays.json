@@ -19,7 +19,8 @@
     { "url": "https://i.imgur.com/PzZOLXu.png", "chunk": [1764, 786], "coords": [251, 423], "name": "luke77_7 #7" },
     { "url": "https://i.imgur.com/6AZ6ikb.png", "chunk": [1765, 786], "coords": [691, 307], "name": "NiceGuy #4" },
     { "url": "https://i.imgur.com/G3UnLKv.png", "chunk": [1765, 786], "coords": [57, 209], "name": "NiceGuy #5" },
-    { "url": "https://i.imgur.com/uYqiOZL.png", "chunk": [1746, 793], "coords": [570, 520], "name": "NiceGuy #6" }
+    { "url": "https://i.imgur.com/uYqiOZL.png", "chunk": [1746, 793], "coords": [570, 520], "name": "NiceGuy #6" },
+    { "url": "https://i.imgur.com/fRVN1vM.png", "chunk": [1687, 776], "coords": [98, 314], "name": "luke77_7 #8" }
 
   ],
   "regions": {
@@ -60,6 +61,14 @@
       "lat": 38.964124560997604,
       "lng": -76.9768069719726,
       "zoom": 15.364380661211596,
+      "type": "location",
+      "progress": "completed"
+    },
+    "beijing": {
+      "name": "Beijing, China",
+      "lat": 39.86327014419885,
+      "lng": 116.56309570312499,
+      "zoom": 14.956982019402115,
       "type": "location",
       "progress": "completed"
     },
