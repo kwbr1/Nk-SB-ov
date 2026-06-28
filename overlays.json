@@ -20,12 +20,14 @@
     { "url": "https://i.imgur.com/6AZ6ikb.png", "chunk": [1765, 786], "coords": [691, 307], "name": "NiceGuy #4" },
     { "url": "https://i.imgur.com/G3UnLKv.png", "chunk": [1765, 786], "coords": [57, 209], "name": "NiceGuy #5" },
     { "url": "https://i.imgur.com/uYqiOZL.png", "chunk": [1746, 793], "coords": [570, 520], "name": "NiceGuy #6" },
-    { "url": "https://i.imgur.com/fRVN1vM.png", "chunk": [1687, 776], "coords": [98, 314], "name": "luke77_7 #8" }
+    { "url": "https://i.imgur.com/fRVN1vM.png", "chunk": [1687, 776], "coords": [98, 314], "name": "luke77_7 #8" },
+    { "url": "https://i.imgur.com/fRVN1vM.png", "chunk": [1795, 812], "coords": [277, 732], "name": "luke77_7 #9" }
+
 
   ],
   "regions": {
     "seoul": {
-      "name": "Seoul, Korea",
+      "name": "Seoul, KR",
       "lat": 37.494037629055526,
       "lng": 127.01469693427731,
       "zoom": 14.004703603406677,
@@ -48,11 +50,19 @@
       "type": "location",
       "progress": "completed"
     },
-        "saopaulo": {
+    "saopaulo": {
       "name": "São Paulo, BR",
       "lat": -23.804082280880422,
       "lng": -46.93297884697266,
       "zoom": 15.7267769973265,
+      "type": "location",
+      "progress": "completed"
+    },
+    "settsu": {
+      "name": "Settsu, JP",
+      "lat": 34.77619978240949,
+      "lng": 135.57875976562497,
+      "zoom": 14.619495301143376,
       "type": "location",
       "progress": "completed"
     },
@@ -65,7 +75,7 @@
       "progress": "completed"
     },
     "beijing": {
-      "name": "Beijing, China",
+      "name": "Beijing, CN",
       "lat": 39.86327014419885,
       "lng": 116.56309570312499,
       "zoom": 14.956982019402115,
