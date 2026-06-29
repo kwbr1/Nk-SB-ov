@@ -21,7 +21,8 @@
     { "url": "https://i.imgur.com/G3UnLKv.png", "chunk": [1765, 786], "coords": [57, 209], "name": "NiceGuy #5" },
     { "url": "https://i.imgur.com/uYqiOZL.png", "chunk": [1746, 793], "coords": [570, 520], "name": "NiceGuy #6" },
     { "url": "https://i.imgur.com/fRVN1vM.png", "chunk": [1687, 776], "coords": [98, 314], "name": "luke77_7 #8" },
-    { "url": "https://i.imgur.com/fRVN1vM.png", "chunk": [1795, 812], "coords": [277, 732], "name": "luke77_7 #9" }
+    { "url": "https://i.imgur.com/fRVN1vM.png", "chunk": [1795, 812], "coords": [277, 732], "name": "luke77_7 #9" },
+    { "url": "https://i.imgur.com/fRVN1vM.png", "chunk": [1777, 815], "coords": [616, 161], "name": "luke77_7 #10" }
 
 
   ],
@@ -55,6 +56,14 @@
       "lat": -23.804082280880422,
       "lng": -46.93297884697266,
       "zoom": 15.7267769973265,
+      "type": "location",
+      "progress": "completed"
+    },
+    "hiroshima": {
+      "name": "Hiroshima, JP",
+      "lat": 34.42489113398294,
+      "lng": 132.474111328125,
+      "zoom": 15.37675320819758,
       "type": "location",
       "progress": "completed"
     },
