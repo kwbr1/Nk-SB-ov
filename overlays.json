@@ -61,7 +61,14 @@
       "type": "location",
       "progress": "completed"
     },
-    "hiroshima": {
+    "yunchon-ri": {
+      "name": "Yunchon-ri, KR",
+      "lat": 37.41896601907568,
+      "lng": 127.60461914062498,
+      "zoom": 13.886347744590562,
+      "type": "location",
+      "progress": "completed"
+    },    "hiroshima": {
       "name": "Hiroshima, JP",
       "lat": 34.42489113398294,
       "lng": 132.474111328125,
