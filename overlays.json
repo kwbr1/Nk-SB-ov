@@ -61,6 +61,14 @@
       "type": "location",
       "progress": "completed"
     },
+    "dongrae": {
+      "name": "Dongrae, KR",
+      "lat": 37.524992794261486,
+      "lng": 129.05850585937497,
+      "zoom": 15.471547689935033,
+      "type": "location",
+      "progress": "completed"
+    },
     "yunchon-ri": {
       "name": "Yunchon-ri, KR",
       "lat": 37.41896601907568,
