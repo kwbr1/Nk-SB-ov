@@ -27,7 +27,8 @@
     { "url": "https://i.imgur.com/vw3gPfK.png", "chunk": [1749, 794], "coords": [884, 65], "name": "luke77_7 #12" },
     { "url": "https://i.imgur.com/35pKFvH.png", "chunk": [1758, 793], "coords": [184, 362], "name": "luke77_7 #13" },
     { "url": "https://i.imgur.com/529WwZ3.png", "chunk": [1756, 800], "coords": [273, 15], "name": "luke77_7 #14" },
-    { "url": "https://i.imgur.com/mJwst9F.png", "chunk": [1752, 803], "coords": [607, 402], "name": "luke77_7 #15" }
+    { "url": "https://i.imgur.com/mJwst9F.png", "chunk": [1752, 803], "coords": [607, 402], "name": "luke77_7 #15" },
+    { "url": "https://i.imgur.com/gkYD6Ny.png", "chunk": [1744, 804], "coords": [739, 323], "name": "luke77_7 #16" }
 
   ],
   "regions": {
@@ -84,6 +85,14 @@
       "lat": 36.11253059248792,
       "lng": 128.078173828125,
       "zoom": 15.587164829366552,
+      "type": "location",
+      "progress": "completed"
+    },
+    "gunsan": {
+      "name": "Gunsan, KR",
+      "lat": 35.98120673349115,
+      "lng": 126.69512695312497,
+      "zoom": 15.518670444092361,
       "type": "location",
       "progress": "completed"
     },
