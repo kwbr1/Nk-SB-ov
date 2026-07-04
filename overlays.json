@@ -28,31 +28,33 @@
     { "url": "https://i.imgur.com/35pKFvH.png", "chunk": [1758, 793], "coords": [184, 362], "name": "luke77_7 #13" },
     { "url": "https://i.imgur.com/529WwZ3.png", "chunk": [1756, 800], "coords": [273, 15], "name": "luke77_7 #14" },
     { "url": "https://i.imgur.com/mJwst9F.png", "chunk": [1752, 803], "coords": [607, 402], "name": "luke77_7 #15" },
-    { "url": "https://i.imgur.com/gkYD6Ny.png", "chunk": [1744, 804], "coords": [739, 323], "name": "luke77_7 #16" }
+    { "url": "https://i.imgur.com/gkYD6Ny.png", "chunk": [1744, 804], "coords": [739, 323], "name": "luke77_7 #16" },
+    { "url": "https://i.imgur.com/vFW09dA.png", "chunk": [630, 1367], "coords": [689, 793], "name": "luke77_7 #17" }
 
   ],
   "regions": {
     "seoul": {
       "name": "Seoul, KR",
-      "lat": 37.494037629055526,
-      "lng": 127.01469693427731,
-      "zoom": 14.004703603406677,
+      "lat": -51.597766041215536,
+      "lng": -69.13344726562501,
+      "zoom": 15.7267769973265,
       "type": "location",
       "progress": "completed"
     },
-    "alliancehq": {
-      "name": "Alliance HQ, KR",
-      "lat": 38.4855179328434,
-      "lng": 130.29319335937498,
-      "zoom": 11.35266015617781,
+
+    "riogallegos": {
+      "name": "Río Gallegos, AR",
+      "lat": -11.66024134219131,
+      "lng": -51.91374056572266,
+      "zoom": 14.898127185383599,
       "type": "location",
-      "progress": "in progress"
+      "progress": "completed"
     },
-    "california": {
-      "name": "California, US",
-      "lat": 34.43272084213703,
-      "lng": -118.04985384697267,
-      "zoom": 13.935346244077452,
+    "matogrosso": {
+      "name": "Mato Grosso, BR",
+      "lat": -11.66024134219131,
+      "lng": -51.91374056572266,
+      "zoom": 14.898127185383599,
       "type": "location",
       "progress": "completed"
     },
@@ -63,6 +65,40 @@
       "zoom": 15.7267769973265,
       "type": "location",
       "progress": "completed"
+    },
+
+    "beijing": {
+      "name": "Beijing, CN",
+      "lat": 39.86327014419885,
+      "lng": 116.56309570312499,
+      "zoom": 14.956982019402115,
+      "type": "location",
+      "progress": "completed"
+    },
+    
+    "hiroshima": {
+      "name": "Hiroshima, JP",
+      "lat": 34.42489113398294,
+      "lng": 132.474111328125,
+      "zoom": 15.37675320819758,
+      "type": "location",
+      "progress": "completed"
+    },
+    "settsu": {
+      "name": "Settsu, JP",
+      "lat": 34.77619978240949,
+      "lng": 135.57875976562497,
+      "zoom": 14.619495301143376,
+      "type": "location",
+      "progress": "completed"
+    },
+    "alliancehq": {
+      "name": "Alliance HQ, KR",
+      "lat": 38.4855179328434,
+      "lng": 130.29319335937498,
+      "zoom": 11.35266015617781,
+      "type": "location",
+      "progress": "in progress"
     },
     "andong": {
       "name": "Andong, KR",
@@ -103,23 +139,8 @@
       "zoom": 13.886347744590562,
       "type": "location",
       "progress": "completed"
-    },    
-    "hiroshima": {
-      "name": "Hiroshima, JP",
-      "lat": 34.42489113398294,
-      "lng": 132.474111328125,
-      "zoom": 15.37675320819758,
-      "type": "location",
-      "progress": "completed"
     },
-    "settsu": {
-      "name": "Settsu, JP",
-      "lat": 34.77619978240949,
-      "lng": 135.57875976562497,
-      "zoom": 14.619495301143376,
-      "type": "location",
-      "progress": "completed"
-    },
+
     "donetsk": {
       "name": "Donetsk, UA",
       "lat": 47.997744373184595,
@@ -128,27 +149,20 @@
       "type": "location",
       "progress": "completed"
     },
+    
+    "california": {
+      "name": "California, US",
+      "lat": 34.43272084213703,
+      "lng": -118.04985384697267,
+      "zoom": 13.935346244077452,
+      "type": "location",
+      "progress": "completed"
+    },
     "washington": {
       "name": "Washington, US",
       "lat": 38.964124560997604,
       "lng": -76.9768069719726,
       "zoom": 15.364380661211596,
-      "type": "location",
-      "progress": "completed"
-    },
-    "beijing": {
-      "name": "Beijing, CN",
-      "lat": 39.86327014419885,
-      "lng": 116.56309570312499,
-      "zoom": 14.956982019402115,
-      "type": "location",
-      "progress": "completed"
-    },
-    "matogrosso": {
-      "name": "Mato Grosso, BR",
-      "lat": -11.66024134219131,
-      "lng": -51.91374056572266,
-      "zoom": 14.898127185383599,
       "type": "location",
       "progress": "completed"
     },
