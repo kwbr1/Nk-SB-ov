@@ -29,7 +29,8 @@
     { "url": "https://i.imgur.com/529WwZ3.png", "chunk": [1756, 800], "coords": [273, 15], "name": "luke77_7 #14" },
     { "url": "https://i.imgur.com/mJwst9F.png", "chunk": [1752, 803], "coords": [607, 402], "name": "luke77_7 #15" },
     { "url": "https://i.imgur.com/gkYD6Ny.png", "chunk": [1744, 804], "coords": [739, 323], "name": "luke77_7 #16" },
-    { "url": "https://i.imgur.com/vFW09dA.png", "chunk": [630, 1367], "coords": [689, 793], "name": "luke77_7 #17" }
+    { "url": "https://i.imgur.com/vFW09dA.png", "chunk": [630, 1367], "coords": [689, 793], "name": "luke77_7 #17" },
+    { "url": "https://i.imgur.com/U599Bed.png", "chunk": [1752, 807], "coords": [284, 467], "name": "luke77_7 #18" }
 
   ],
   "regions": {
@@ -105,6 +106,14 @@
       "lat": 36.59189112480145,
       "lng": 128.72258789062496,
       "zoom": 15.421686216393047,
+      "type": "location",
+      "progress": "completed"
+    },
+    "daebyeong": {
+      "name": "Daebyeong, KR",
+      "lat": 35.53315603953163,
+      "lng": 128.02139648437497,
+      "zoom": 15.402190330605789,
       "type": "location",
       "progress": "completed"
     },
