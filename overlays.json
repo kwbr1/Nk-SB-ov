@@ -51,6 +51,7 @@
       "type": "location",
       "progress": "completed"
     },
+    
     "matogrosso": {
       "name": "Mato Grosso, BR",
       "lat": -11.66024134219131,
@@ -93,6 +94,7 @@
       "type": "location",
       "progress": "completed"
     },
+    
     "alliancehq": {
       "name": "Alliance HQ, KR",
       "lat": 38.4855179328434,
