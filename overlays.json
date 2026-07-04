@@ -47,7 +47,7 @@
       "name": "Río Gallegos, AR",
       "lat": -51.598421185516294,
       "lng": -69.133974609375,
-      "zoom": 13.962889738649034,
+      "zoom": 14.956982019402115,
       "type": "location",
       "progress": "completed"
     },
@@ -64,7 +64,7 @@
       "name": "São Paulo, BR",
       "lat": -23.804082280880422,
       "lng": -46.93297884697266,
-      "zoom": 15.7267769973265,
+      "zoom": 14.956982019402115,
       "type": "location",
       "progress": "completed"
     },
@@ -82,7 +82,7 @@
       "name": "Hiroshima, JP",
       "lat": 34.42489113398294,
       "lng": 132.474111328125,
-      "zoom": 15.37675320819758,
+      "zoom": 14.956982019402115,
       "type": "location",
       "progress": "completed"
     },
@@ -90,7 +90,7 @@
       "name": "Settsu, JP",
       "lat": 34.77619978240949,
       "lng": 135.57875976562497,
-      "zoom": 14.619495301143376,
+      "zoom": 14.956982019402115,
       "type": "location",
       "progress": "completed"
     },
@@ -107,7 +107,7 @@
       "name": "Andong, KR",
       "lat": 36.59189112480145,
       "lng": 128.72258789062496,
-      "zoom": 15.421686216393047,
+      "zoom": 14.956982019402115,
       "type": "location",
       "progress": "completed"
     },
@@ -115,7 +115,7 @@
       "name": "Daebyeong, KR",
       "lat": 35.53315603953163,
       "lng": 128.02139648437497,
-      "zoom": 15.402190330605789,
+      "zoom": 14.956982019402115,
       "type": "location",
       "progress": "completed"
     },
@@ -123,7 +123,7 @@
       "name": "Dongrae, KR",
       "lat": 37.524992794261486,
       "lng": 129.05850585937497,
-      "zoom": 15.471547689935033,
+      "zoom": 14.956982019402115,
       "type": "location",
       "progress": "completed"
     },
@@ -131,7 +131,7 @@
       "name": "Gimcheon, KR",
       "lat": 36.11253059248792,
       "lng": 128.078173828125,
-      "zoom": 15.587164829366552,
+      "zoom": 14.956982019402115,
       "type": "location",
       "progress": "completed"
     },
@@ -139,7 +139,7 @@
       "name": "Gunsan, KR",
       "lat": 35.98120673349115,
       "lng": 126.69512695312497,
-      "zoom": 15.518670444092361,
+      "zoom": 14.956982019402115,
       "type": "location",
       "progress": "completed"
     },
@@ -147,7 +147,7 @@
       "name": "Yunchon-ri, KR",
       "lat": 37.41896601907568,
       "lng": 127.60461914062498,
-      "zoom": 13.886347744590562,
+      "zoom": 14.956982019402115,
       "type": "location",
       "progress": "completed"
     },
@@ -156,7 +156,7 @@
       "name": "Donetsk, UA",
       "lat": 47.997744373184595,
       "lng": 37.782685546875,
-      "zoom": 15.359172350007976,
+      "zoom": 14.956982019402115,
       "type": "location",
       "progress": "completed"
     },
@@ -173,7 +173,7 @@
       "name": "Washington, US",
       "lat": 38.964124560997604,
       "lng": -76.9768069719726,
-      "zoom": 15.364380661211596,
+      "zoom": 14.956982019402115,
       "type": "location",
       "progress": "completed"
     },
