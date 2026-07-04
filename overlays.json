@@ -44,9 +44,9 @@
 
     "riogallegos": {
       "name": "Río Gallegos, AR",
-      "lat": -11.66024134219131,
-      "lng": -51.91374056572266,
-      "zoom": 14.898127185383599,
+      "lat": -51.598421185516294,
+      "lng": -69.133974609375,
+      "zoom": 13.962889738649034,
       "type": "location",
       "progress": "completed"
     },
