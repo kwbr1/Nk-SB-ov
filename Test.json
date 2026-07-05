@@ -35,7 +35,8 @@
     { "url": "https://i.imgur.com/Nb3dubT.png", "chunk": [1771, 832], "coords": [792, 149], "name": "luke77_7 #20" },
     { "url": "https://i.imgur.com/BxxByd2.png", "chunk": [1810, 798], "coords": [92, 277], "name": "luke77_7 #21" },
     { "url": "https://i.imgur.com/p2OxVhc.png", "chunk": [1822, 788], "coords": [791, 220], "name": "luke77_7 #22" },
-    { "url": "https://i.imgur.com/lgANjbb.png", "chunk": [1824, 769], "coords": [513, 241], "name": "luke77_7 #23" }
+    { "url": "https://i.imgur.com/lgANjbb.png", "chunk": [1824, 769], "coords": [513, 241], "name": "luke77_7 #23" },
+    { "url": "https://i.imgur.com/fZJUz0v.png", "chunk": [1128, 1229], "coords": [584, 195], "name": "luke77_7 #24" }
   ],
   "regions": {
     "seoul": {
@@ -122,8 +123,8 @@
       "type": "location",
       "progress": "completed"
     },    
-    "yagamata": {
-      "name": "Yagamata, JP",
+    "yamagata": {
+      "name": "Yamagata, JP",
       "lat": 38.23866335069653,
       "lng": 140.41520507812498,
       "zoom": 14.956982019402115,
@@ -213,14 +214,6 @@
       "type": "location",
       "progress": "completed"
     },
-    "washington": {
-      "name": "Washington, US",
-      "lat": 38.964124560997604,
-      "lng": -76.9768069719726,
-      "zoom": 14.956982019402115,
-      "type": "location",
-      "progress": "completed"
-    },
     "doroland": {
       "name": "Doro Land, US",
       "lat": 44.85244220940125,
@@ -229,6 +222,22 @@
       "type": "location",
       "progress": "completed"
     }
+    "washington": {
+      "name": "Washington, US",
+      "lat": 38.964124560997604,
+      "lng": -76.9768069719726,
+      "zoom": 14.956982019402115,
+      "type": "location",
+      "progress": "completed"
+    },
+    "capetown": {
+      "name": "Cape Town, ZA",
+      "lat": -33.902737619152546,
+      "lng": 18.386630859374993,
+      "zoom": 14.956982019402115,
+      "type": "location",
+      "progress": "completed"
+    },
   },
   "avatars": {
     "Gam":   "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADLElEQVR42iSTS28bVRiGn5lzZjwXjz3xLaR2mpDG1FUqEosGsaCLtEjsYYPKT0AifwCpoZQ1iB+D1AVVKyFB6YaAAwi1oUpC7MSxm8i3zMUzyIdZfhp97/u9z3vkWvNm4PseS7Ul1tc3uLZSp1qt4rouYRTx4OEDfmvtInUdy7JJkgRdpMRRgqbriA8+vPOVbTlCarrISENoui7CIBSDwUB4jitu3GiIH396Is5OeyIMQ2GaprAsWxiGKVzHFXLp6hK+79M+OGI0HCGEIJfLkaYp3bMuTtZhvrRAbeEqmqbx7Odn2I6N53kYhkTOhrZls7KywtHhvwwHA3I5Dyklh4cHZL0se60/yPt5JfT+7dtksw7Hxx2iKEROJhMM06B69U0qlQVOTjrcv/8FZ2fnbG9v4/sB7cM2nc4Jhikol0ssXJmnVJinVqsij46OKJXKFPMFyuUy1WqNjY0mcTylXq9jGCYff/IRT54+JQpDNf/rz78R+r5yJUrzpR3DMDCtDJaZIZv1FIXl5WV188HhK9595z1cx2U0GVOr1ajWrtBsNhkMhujj8ZjuaZdOp8Pri9fEYahui6cx5+fnPH/+C4PhBd2TLkW/oFAuLS9S8H3ufXoP4Rf9nRnbWeppGqut49FY8Z4lncvl1Wx391dcL4vnZZnLz2FmMsqhnE4TRqMxx8dtLicjunOn9Hp9Li4uaDRuAIlCm6QR4eiSSqWC1ASe62FKAxlNY2QcMRgMaDSu03x7nbdWG0q51+vx6NH3/PNqH8PQSBKBFALLskiTRLVVBkGAlqYE2iV7rRZpGOPnCmrBrc1bbG5u0u/3efj1l8z+NUxTiQmhM1coIGwnsxNFEUEQ0uv3abVa/PD4MS9eviCOIkVlcXGRu3fukjEztNttisUCrptFn72FMIx2LscBo+GYyWiiwqlfrytUw+GQ1Wt1CoUCM9RrazdJU439/ZfK/iwbmSRT0ikYGRPLsShXimysryv7JCjbsyxs+//+b21tMU0ift9rMfs0YcsgCRIWqm/gei6u66j2TacxQpdsf/Y5q6t1pWi7Dn4uj5CCb7/7hjiI+C8AAP//BY5KcGOGCckAAAAASUVORK5CYII=",
