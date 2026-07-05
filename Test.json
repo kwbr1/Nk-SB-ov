@@ -32,7 +32,8 @@
     { "url": "https://i.imgur.com/vFW09dA.png", "chunk": [630, 1367], "coords": [689, 793], "name": "luke77_7 #17" },
     { "url": "https://i.imgur.com/U599Bed.png", "chunk": [1752, 807], "coords": [284, 467], "name": "luke77_7 #18" },
     { "url": "https://i.imgur.com/JTBzP5f.png", "chunk": [1763, 785], "coords": [255, 817], "name": "Oh #1" },
-    { "url": "https://i.imgur.com/Nb3dubT.png", "chunk": [1771, 832], "coords": [792, 149], "name": "luke77_7 #20" }
+    { "url": "https://i.imgur.com/Nb3dubT.png", "chunk": [1771, 832], "coords": [792, 149], "name": "luke77_7 #20" },
+    { "url": "https://i.imgur.com/Nb3dubT.png", "chunk": [1810, 798], "coords": [92, 277], "name": "luke77_7 #21" }
   ],
   "regions": {
     "seoul": {
@@ -94,7 +95,8 @@
       "zoom": 14.956982019402115,
       "type": "location",
       "progress": "completed"
-    },    "settsu": {
+    },
+    "settsu": {
       "name": "Settsu, JP",
       "lat": 34.77619978240949,
       "lng": 135.57875976562497,
@@ -102,7 +104,14 @@
       "type": "location",
       "progress": "completed"
     },
-    
+    "shinano": {
+      "name": "Shinano, JP",
+      "lat": 36.836793742800126,
+      "lng": 138.18295898437498,
+      "zoom": 14.956982019402115,
+      "type": "location",
+      "progress": "completed"
+    },    
     "alliancehq": {
       "name": "Alliance HQ, KR",
       "lat": 38.4855179328434,
