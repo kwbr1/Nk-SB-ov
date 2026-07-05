@@ -221,7 +221,7 @@
       "zoom": 13.837536574683238,
       "type": "location",
       "progress": "completed"
-    }
+    },
     "washington": {
       "name": "Washington, US",
       "lat": 38.964124560997604,
@@ -232,7 +232,7 @@
     },
     
     "capetown": {
-      "name": "Cape Town, PY",
+      "name": "Cape Town, ZA",
       "lat": -33.902737619152546,
       "lng": 18.386630859374993,
       "zoom": 14.956982019402115,
