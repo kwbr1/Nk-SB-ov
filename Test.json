@@ -2,7 +2,36 @@
   "overlays": [
     { "url": "https://i.imgur.com/EZp9tk6.png", "chunk": [1746, 793], "coords": [456, 548], "name": "luke77_7 #1" },
     { "url": "https://i.imgur.com/opDA9La.png", "chunk": [1746, 793], "coords": [604, 524], "name": "luke77_7 #2" },
-    { "url": "https://i.imgur.com/S8REL6x.png", "chunk": [1746, 793], "coords": [535, 621], "name": "Gam #1" }
+    { "url": "https://i.imgur.com/S8REL6x.png", "chunk": [1746, 793], "coords": [535, 621], "name": "Gam #1" },
+    { "url": "https://i.imgur.com/Ab2kaZE.png", "chunk": [1746, 793], "coords": [615, 535], "name": "MaHno #1" },
+    { "url": "https://i.imgur.com/4sFChAN.png", "chunk": [1746, 793], "coords": [669, 549], "name": "プリンノブ #1" },
+    { "url": "https://i.imgur.com/Biiu2Nq.png", "chunk": [1746, 793], "coords": [595, 621], "name": "SolidKnife #1" },
+    { "url": "https://i.imgur.com/O81DYxL.png", "chunk": [394, 737], "coords": [193, 770], "name": "Michaeru #1" },
+    { "url": "https://i.imgur.com/jOGPokd.png", "chunk": [394, 737], "coords": [179, 844], "name": "luke77_7 #3" },
+    { "url": "https://i.imgur.com/Y8w4Ect.png", "chunk": [394, 737], "coords": [318, 784], "name": "luke77_7 #4" },
+    { "url": "https://i.imgur.com/hhGWa8P.png", "chunk": [352, 815], "coords": [380, 32], "name": "NiceGuy #1" },
+    { "url": "https://i.imgur.com/Uz4RaTf.png", "chunk": [1763, 786], "coords": [205, 209], "name": "NiceGuy #2" },
+    { "url": "https://i.imgur.com/hbcRbMP.png", "chunk": [1763, 785], "coords": [570, 844], "name": "NiceGuy #3" },
+    { "url": "https://i.imgur.com/Cad1yI0.png", "chunk": [586, 782], "coords": [71, 932], "name": "SlipperySnowball #1" },
+    { "url": "https://i.imgur.com/prFfqQm.png", "chunk": [728, 1090], "coords": [597, 758], "name": "luke77_7 #5" },
+    { "url": "https://i.imgur.com/93DoYQH.png", "chunk": [1746, 793], "coords": [643, 597], "name": "Michaeru #2" },
+    { "url": "https://i.imgur.com/fRVN1vM.png", "chunk": [756, 1163], "coords": [987, 458], "name": "luke77_7 #6" },
+    { "url": "https://i.imgur.com/PzZOLXu.png", "chunk": [1764, 786], "coords": [251, 423], "name": "luke77_7 #7" },
+    { "url": "https://i.imgur.com/6AZ6ikb.png", "chunk": [1765, 786], "coords": [691, 307], "name": "NiceGuy #4" },
+    { "url": "https://i.imgur.com/vJ2A8Vt.png", "chunk": [1765, 786], "coords": [57, 209], "name": "NiceGuy #5" },
+    { "url": "https://i.imgur.com/uYqiOZL.png", "chunk": [1746, 793], "coords": [570, 520], "name": "NiceGuy #6" },
+    { "url": "https://i.imgur.com/bIqlINI.png", "chunk": [1687, 776], "coords": [98, 314], "name": "luke77_7 #8" },
+    { "url": "https://i.imgur.com/yqNElm4.png", "chunk": [1795, 812], "coords": [277, 732], "name": "luke77_7 #9" },
+    { "url": "https://i.imgur.com/0o4CWHx.png", "chunk": [1777, 815], "coords": [616, 161], "name": "luke77_7 #10" },
+    { "url": "https://i.imgur.com/PIVfcj9.png", "chunk": [1238, 711], "coords": [926, 906], "name": "luke77_7 #11" },
+    { "url": "https://i.imgur.com/vw3gPfK.png", "chunk": [1749, 794], "coords": [884, 65], "name": "luke77_7 #12" },
+    { "url": "https://i.imgur.com/35pKFvH.png", "chunk": [1758, 793], "coords": [184, 362], "name": "luke77_7 #13" },
+    { "url": "https://i.imgur.com/529WwZ3.png", "chunk": [1756, 800], "coords": [273, 15], "name": "luke77_7 #14" },
+    { "url": "https://i.imgur.com/mJwst9F.png", "chunk": [1752, 803], "coords": [607, 402], "name": "luke77_7 #15" },
+    { "url": "https://i.imgur.com/gkYD6Ny.png", "chunk": [1744, 804], "coords": [739, 323], "name": "luke77_7 #16" },
+    { "url": "https://i.imgur.com/vFW09dA.png", "chunk": [630, 1367], "coords": [689, 793], "name": "luke77_7 #17" },
+    { "url": "https://i.imgur.com/U599Bed.png", "chunk": [1752, 807], "coords": [284, 467], "name": "luke77_7 #18" },
+    { "url": "https://i.imgur.com/JTBzP5f.png", "chunk": [1763, 785], "coords": [255, 817], "name": "Oh #1" }
 
   ],
   "regions": {
@@ -14,5 +43,151 @@
       "type": "location",
       "progress": "completed"
     },
+
+    "riogallegos": {
+      "name": "Río Gallegos, AR",
+      "lat": -51.598421185516294,
+      "lng": -69.133974609375,
+      "zoom": 14.956982019402115,
+      "type": "location",
+      "progress": "completed"
+    },
+    
+    "matogrosso": {
+      "name": "Mato Grosso, BR",
+      "lat": -11.66024134219131,
+      "lng": -51.91374056572266,
+      "zoom": 14.898127185383599,
+      "type": "location",
+      "progress": "completed"
+    },
+    "saopaulo": {
+      "name": "São Paulo, BR",
+      "lat": -23.804082280880422,
+      "lng": -46.93297884697266,
+      "zoom": 14.956982019402115,
+      "type": "location",
+      "progress": "completed"
+    },
+
+    "beijing": {
+      "name": "Beijing, CN",
+      "lat": 39.86327014419885,
+      "lng": 116.56309570312499,
+      "zoom": 14.956982019402115,
+      "type": "location",
+      "progress": "completed"
+    },
+    
+    "hiroshima": {
+      "name": "Hiroshima, JP",
+      "lat": 34.42489113398294,
+      "lng": 132.474111328125,
+      "zoom": 14.956982019402115,
+      "type": "location",
+      "progress": "completed"
+    },
+    "settsu": {
+      "name": "Settsu, JP",
+      "lat": 34.77619978240949,
+      "lng": 135.57875976562497,
+      "zoom": 14.956982019402115,
+      "type": "location",
+      "progress": "completed"
+    },
+    
+    "alliancehq": {
+      "name": "Alliance HQ, KR",
+      "lat": 38.4855179328434,
+      "lng": 130.29319335937498,
+      "zoom": 11.35266015617781,
+      "type": "location",
+      "progress": "in progress"
+    },
+    "andong": {
+      "name": "Andong, KR",
+      "lat": 36.59189112480145,
+      "lng": 128.72258789062496,
+      "zoom": 14.956982019402115,
+      "type": "location",
+      "progress": "completed"
+    },
+    "daebyeong": {
+      "name": "Daebyeong, KR",
+      "lat": 35.53315603953163,
+      "lng": 128.02139648437497,
+      "zoom": 14.956982019402115,
+      "type": "location",
+      "progress": "completed"
+    },
+    "dongrae": {
+      "name": "Dongrae, KR",
+      "lat": 37.524992794261486,
+      "lng": 129.05850585937497,
+      "zoom": 14.956982019402115,
+      "type": "location",
+      "progress": "completed"
+    },
+    "gimcheon": {
+      "name": "Gimcheon, KR",
+      "lat": 36.11253059248792,
+      "lng": 128.078173828125,
+      "zoom": 14.956982019402115,
+      "type": "location",
+      "progress": "completed"
+    },
+    "gunsan": {
+      "name": "Gunsan, KR",
+      "lat": 35.98120673349115,
+      "lng": 126.69512695312497,
+      "zoom": 14.956982019402115,
+      "type": "location",
+      "progress": "completed"
+    },
+    "yunchon-ri": {
+      "name": "Yunchon-ri, KR",
+      "lat": 37.41896601907568,
+      "lng": 127.60461914062498,
+      "zoom": 14.956982019402115,
+      "type": "location",
+      "progress": "completed"
+    },
+
+    "donetsk": {
+      "name": "Donetsk, UA",
+      "lat": 47.997744373184595,
+      "lng": 37.782685546875,
+      "zoom": 14.956982019402115,
+      "type": "location",
+      "progress": "completed"
+    },
+    
+    "california": {
+      "name": "California, US",
+      "lat": 34.43272084213703,
+      "lng": -118.04985384697267,
+      "zoom": 13.935346244077452,
+      "type": "location",
+      "progress": "completed"
+    },
+    "washington": {
+      "name": "Washington, US",
+      "lat": 38.964124560997604,
+      "lng": -76.9768069719726,
+      "zoom": 14.956982019402115,
+      "type": "location",
+      "progress": "completed"
+    },
+    "doroland": {
+      "name": "Doro Land, US",
+      "lat": 44.85244220940125,
+      "lng": -110.69323275322265,
+      "zoom": 13.837536574683238,
+      "type": "location",
+      "progress": "completed"
+    }
+  }
+  "avatars": {
+    "luke77_7": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAALklEQVR42mIRWLfsz+UTLLoWRJJMDCSCEamBmUVLmvgwZdG1GA3WwaEBEAAA//+Ppy7RIioX2wAAAABJRU5ErkJggg==",
   }
 }
