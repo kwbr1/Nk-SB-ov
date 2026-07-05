@@ -32,7 +32,6 @@
     { "url": "https://i.imgur.com/vFW09dA.png", "chunk": [630, 1367], "coords": [689, 793], "name": "luke77_7 #17" },
     { "url": "https://i.imgur.com/U599Bed.png", "chunk": [1752, 807], "coords": [284, 467], "name": "luke77_7 #18" },
     { "url": "https://i.imgur.com/JTBzP5f.png", "chunk": [1763, 785], "coords": [255, 817], "name": "Oh #1" }
-
   ],
   "regions": {
     "seoul": {
@@ -186,8 +185,9 @@
       "type": "location",
       "progress": "completed"
     }
-  }
+  },
   "avatars": {
-    "luke77_7": "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAALklEQVR42mIRWLfsz+UTLLoWRJJMDCSCEamBmUVLmvgwZdG1GA3WwaEBEAAA//+Ppy7RIioX2wAAAABJRU5ErkJggg==",
+    "Gam":   "iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAADLElEQVR42iSTS28bVRiGn5lzZjwXjz3xLaR2mpDG1FUqEosGsaCLtEjsYYPKT0AifwCpoZQ1iB+D1AVVKyFB6YaAAwi1oUpC7MSxm8i3zMUzyIdZfhp97/u9z3vkWvNm4PseS7Ul1tc3uLZSp1qt4rouYRTx4OEDfmvtInUdy7JJkgRdpMRRgqbriA8+vPOVbTlCarrISENoui7CIBSDwUB4jitu3GiIH396Is5OeyIMQ2GaprAsWxiGKVzHFXLp6hK+79M+OGI0HCGEIJfLkaYp3bMuTtZhvrRAbeEqmqbx7Odn2I6N53kYhkTOhrZls7KywtHhvwwHA3I5Dyklh4cHZL0se60/yPt5JfT+7dtksw7Hxx2iKEROJhMM06B69U0qlQVOTjrcv/8FZ2fnbG9v4/sB7cM2nc4Jhikol0ssXJmnVJinVqsij46OKJXKFPMFyuUy1WqNjY0mcTylXq9jGCYff/IRT54+JQpDNf/rz78R+r5yJUrzpR3DMDCtDJaZIZv1FIXl5WV188HhK9595z1cx2U0GVOr1ajWrtBsNhkMhujj8ZjuaZdOp8Pri9fEYahui6cx5+fnPH/+C4PhBd2TLkW/oFAuLS9S8H3ufXoP4Rf9nRnbWeppGqut49FY8Z4lncvl1Wx391dcL4vnZZnLz2FmMsqhnE4TRqMxx8dtLicjunOn9Hp9Li4uaDRuAIlCm6QR4eiSSqWC1ASe62FKAxlNY2QcMRgMaDSu03x7nbdWG0q51+vx6NH3/PNqH8PQSBKBFALLskiTRLVVBkGAlqYE2iV7rRZpGOPnCmrBrc1bbG5u0u/3efj1l8z+NUxTiQmhM1coIGwnsxNFEUEQ0uv3abVa/PD4MS9eviCOIkVlcXGRu3fukjEztNttisUCrptFn72FMIx2LscBo+GYyWiiwqlfrytUw+GQ1Wt1CoUCM9RrazdJU439/ZfK/iwbmSRT0ikYGRPLsShXimysryv7JCjbsyxs+//+b21tMU0ift9rMfs0YcsgCRIWqm/gei6u66j2TacxQpdsf/Y5q6t1pWi7Dn4uj5CCb7/7hjiI+C8AAP//BY5KcGOGCckAAAAASUVORK5CYII=",
+    "MaHno": "PHN2ZyB2aWV3Qm94PSItMS41IC0xLjUgOCA4IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9ImhzbCgyNDAgOTUlIDQ1JSkiIHNoYXBlLXJlbmRlcmluZz0iY3Jpc3BFZGdlcyI+PHJlY3QgeD0iMCIgeT0iMSIgd2lkdGg9IjEiIGhlaWdodD0iMSIvPjxyZWN0IHg9IjEiIHk9IjAiIHdpZHRoPSIxIiBoZWlnaHQ9IjEiLz48cmVjdCB4PSIxIiB5PSIxIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIi8+PHJlY3QgeD0iMSIgeT0iMyIgd2lkdGg9IjEiIGhlaWdodD0iMSIvPjxyZWN0IHg9IjIiIHk9IjAiIHdpZHRoPSIxIiBoZWlnaHQ9IjEiLz48cmVjdCB4PSIyIiB5PSIyIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIi8+PHJlY3QgeD0iMiIgeT0iMyIgd2lkdGg9IjEiIGhlaWdodD0iMSIvPjxyZWN0IHg9IjQiIHk9IjEiIHdpZHRoPSIxIiBoZWlnaHQ9IjEiLz48cmVjdCB4PSIzIiB5PSIwIiB3aWR0aD0iMSIgaGVpZ2h0PSIxIi8+PHJlY3QgeD0iMyIgeT0iMSIgd2lkdGg9IjEiIGhlaWdodD0iMSIvPjxyZWN0IHg9IjMiIHk9IjMiIHdpZHRoPSIxIiBoZWlnaHQ9IjEiLz48L3N2Zz4="
   }
 }
