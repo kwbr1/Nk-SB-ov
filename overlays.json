@@ -31,7 +31,8 @@
     { "url": "https://i.imgur.com/gkYD6Ny.png", "chunk": [1744, 804], "coords": [739, 323], "name": "luke77_7 #16" },
     { "url": "https://i.imgur.com/vFW09dA.png", "chunk": [630, 1367], "coords": [689, 793], "name": "luke77_7 #17" },
     { "url": "https://i.imgur.com/U599Bed.png", "chunk": [1752, 807], "coords": [284, 467], "name": "luke77_7 #18" },
-    { "url": "https://i.imgur.com/JTBzP5f.png", "chunk": [1763, 785], "coords": [255, 817], "name": "Oh #1" }
+    { "url": "https://i.imgur.com/JTBzP5f.png", "chunk": [1763, 785], "coords": [255, 817], "name": "Oh #1" },
+    { "url": "https://i.imgur.com/qp7Qgtm.png", "chunk": [1752, 807], "coords": [284, 467], "name": "luke77_7 #19" }
 
   ],
   "regions": {
@@ -144,7 +145,14 @@
       "type": "location",
       "progress": "completed"
     },
-    "yunchon-ri": {
+    "yeosu": {
+      "name": "Yeosu, KR",
+      "lat": 34.73634009568205,
+      "lng": 127.66315429687498,
+      "zoom": 14.956982019402115,
+      "type": "location",
+      "progress": "completed"
+    },    "yunchon-ri": {
       "name": "Yunchon-ri, KR",
       "lat": 37.41896601907568,
       "lng": 127.60461914062498,
