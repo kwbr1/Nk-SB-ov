@@ -94,7 +94,14 @@
       "type": "location",
       "progress": "completed"
     },
-    "hiroshima": {
+    "asahikawa": {
+      "name": "Asahikawa, JP",
+      "lat": 43.797299796186635,
+      "lng": 142.39977539062497,
+      "zoom": 14.956982019402115,
+      "type": "location",
+      "progress": "completed"
+    },    "hiroshima": {
       "name": "Hiroshima, JP",
       "lat": 34.42489113398294,
       "lng": 132.474111328125,
@@ -183,7 +190,14 @@
       "type": "location",
       "progress": "completed"
     },
-    "yeosu": {
+    "seogwipo": {
+      "name": "Seogwipo, KR",
+      "lat": 33.2604441424112,
+      "lng": 126.55731445312497,
+      "zoom": 14.956982019402115,
+      "type": "location",
+      "progress": "completed"
+    },    "yeosu": {
       "name": "Yeosu, KR",
       "lat": 34.73634009568205,
       "lng": 127.66315429687498,
