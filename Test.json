@@ -39,7 +39,8 @@
     { "url": "https://i.imgur.com/fZJUz0v.png", "chunk": [1128, 1229], "coords": [584, 195], "name": "luke77_7 #23" },
     { "url": "https://i.imgur.com/qp7Qgtm.png", "chunk": [1750, 813], "coords": [246, 10], "name": "luke77_7 #24" },
     { "url": "https://i.imgur.com/mmCHuiC.png", "chunk": [1834, 746], "coords": [81, 267], "name": "luke77_7 #25" },
-    { "url": "https://i.imgur.com/dxTwSP1.png", "chunk": [1743, 823], "coords": [955, 138], "name": "luke77_7 #26" }
+    { "url": "https://i.imgur.com/dxTwSP1.png", "chunk": [1743, 823], "coords": [955, 138], "name": "luke77_7 #26" },
+    { "url": "https://i.imgur.com/h7CTzCC.png", "chunk": [1743, 798], "coords": [257, 538], "name": "luke77_7 #27" }
   ],
   "regions": {
     "seoul": {
@@ -197,7 +198,16 @@
       "zoom": 14.956982019402115,
       "type": "location",
       "progress": "completed"
-    },    "yeosu": {
+    },
+    "seosan": {
+      "name": "Seosan, JP",
+      "lat": 36.80020665991281,
+      "lng": 126.43461914062496,
+      "zoom": 14.956982019402115,
+      "type": "location",
+      "progress": "completed"
+    },
+    "yeosu": {
       "name": "Yeosu, KR",
       "lat": 34.73634009568205,
       "lng": 127.66315429687498,
