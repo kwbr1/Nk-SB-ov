@@ -89,7 +89,14 @@
       "type": "location",
       "progress": "completed"
     },
-
+    "chengshan": {
+      "name": "Chengshan, CN",
+      "lat": 37.36561683611779,
+      "lng": 122.55618164062497,
+      "zoom": 14.956982019402115,
+      "type": "location",
+      "progress": "completed"
+    },
     "aomori": {
       "name": "Aomori, JP",
       "lat": 40.81161406969184,
