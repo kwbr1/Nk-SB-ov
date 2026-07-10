@@ -46,7 +46,8 @@
     { "url": "https://i.imgur.com/xG4Hnmo.png", "chunk": [1713, 890], "coords": [267, 895], "name": "luke77_7 #29", "loc": "lat=37.36561683611779&lng=122.55618164062497&zoom=15.518670444092379" },
     { "url": "https://i.imgur.com/3uXGdnZ.png", "chunk": [1747, 793], "coords": [681, 731], "name": "luke77_7 #30", "loc": "lat=37.47604385600317&lng=127.21157226562497&zoom=16.394284209962755" },
     { "url": "https://i.imgur.com/slxjytY.png", "chunk": [481, 845], "coords": [534, 848], "name": "luke77_7 #31", "loc": "lat=37.47604385600317&lng=127.21157226562497&zoom=16.394284209962755" },
-    { "url": "https://i.imgur.com/SpA8VVD.png", "chunk": [724, 1184], "coords": [658, 329], "name": "luke77_7 #32", "loc": "lat=37.47604385600317&lng=127.21157226562497&zoom=16.394284209962755" }
+    { "url": "https://i.imgur.com/SpA8VVD.png", "chunk": [724, 1184], "coords": [658, 329], "name": "luke77_7 #32", "loc": "lat=37.475904354501466&lng=127.21157226562497&zoom=16.394284209962755" },
+    { "url": "https://i.imgur.com/T91g42T.png", "chunk": [771, 1158], "coords": [780, 595], "name": "luke77_7 #33", "loc": "lat=-23.018348154525913&lng=-44.332646484375005&zoom=15.489357506041857" }
 
   ],
   "regions": {
@@ -68,6 +69,14 @@
       "progress": "completed"
     },
 
+    "angradosreis": {
+      "name": "Angra dos Reis, BR",
+      "lat": -23.018024583156436,
+      "lng": -44.33282226562501,
+      "zoom": 14.898127185383599,
+      "type": "location",
+      "progress": "completed"
+    },
     "chapeco": {
       "name": "Chapecó, BR",
       "lat": -27.114761873267078,
