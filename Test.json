@@ -43,7 +43,8 @@
     { "url": "https://i.imgur.com/h7CTzCC.png", "chunk": [1743, 798], "coords": [257, 538], "name": "luke77_7 #27", "loc": "lat=36.80020665991281&lng=126.43461914062496&zoom=15.402190330605787" },
     { "url": "https://i.imgur.com/L061Rkv.png", "chunk": [1746, 793], "coords": [565, 470], "name": "luke77_7 #28", "loc": "lat=37.51216597633634&lng=127.01540039062496&zoom=16.13401111525178" },
     { "url": "https://i.imgur.com/2Ks8931.png", "chunk": [1721, 794], "coords": [193, 506], "name": "luke77_7 #29", "loc": "lat=37.36561683611779&lng=122.55618164062497&zoom=15.518670444092374" },
-    { "url": "https://i.imgur.com/xG4Hnmo.png", "chunk": [1713, 890], "coords": [267, 895], "name": "luke77_7 #29", "loc": "lat=37.36561683611779&lng=122.55618164062497&zoom=15.518670444092379" }
+    { "url": "https://i.imgur.com/xG4Hnmo.png", "chunk": [1713, 890], "coords": [267, 895], "name": "luke77_7 #29", "loc": "lat=37.36561683611779&lng=122.55618164062497&zoom=15.518670444092379" },
+    { "url": "https://i.imgur.com/3uXGdnZ.png", "chunk": [1747, 793], "coords": [681, 731], "name": "luke77_7 #30", "loc": "lat=37.47604385600317&lng=127.21157226562497&zoom=16.394284209962755" }
 
   ],
   "regions": {
