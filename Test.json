@@ -64,7 +64,7 @@
       "name": "Río Gallegos, AR",
       "lat": -51.598421185516294,
       "lng": -69.133974609375,
-      "zoom": 14.956982019402115,
+      "zoom": 15.240816491191737,
       "type": "location",
       "progress": "completed"
     },
@@ -97,7 +97,7 @@
       "name": "São Paulo, BR",
       "lat": -23.804082280880422,
       "lng": -46.93297884697266,
-      "zoom": 14.956982019402115,
+      "zoom": 15.240816491191737,
       "type": "location",
       "progress": "completed"
     },
@@ -106,7 +106,7 @@
       "name": "Beijing, CN",
       "lat": 39.86327014419885,
       "lng": 116.56309570312499,
-      "zoom": 14.956982019402115,
+      "zoom": 15.240816491191737,
       "type": "location",
       "progress": "completed"
     },
@@ -114,7 +114,7 @@
       "name": "Chengshan, CN",
       "lat": 37.36561683611779,
       "lng": 122.55618164062497,
-      "zoom": 14.956982019402115,
+      "zoom": 15.240816491191737,
       "type": "location",
       "progress": "completed"
     },
@@ -122,7 +122,7 @@
       "name": "Aomori, JP",
       "lat": 40.81161406969184,
       "lng": 140.71772460937495,
-      "zoom": 14.956982019402115,
+      "zoom": 15.240816491191737,
       "type": "location",
       "progress": "completed"
     },
@@ -130,14 +130,14 @@
       "name": "Asahikawa, JP",
       "lat": 43.797299796186635,
       "lng": 142.39977539062497,
-      "zoom": 14.956982019402115,
+      "zoom": 15.240816491191737,
       "type": "location",
       "progress": "completed"
     },    "hiroshima": {
       "name": "Hiroshima, JP",
       "lat": 34.42489113398294,
       "lng": 132.474111328125,
-      "zoom": 14.956982019402115,
+      "zoom": 15.240816491191737,
       "type": "location",
       "progress": "completed"
     },
@@ -145,7 +145,7 @@
       "name": "Miyazaki, JP",
       "lat": 31.925982916703354,
       "lng": 131.45053710937498,
-      "zoom": 14.956982019402115,
+      "zoom": 15.240816491191737,
       "type": "location",
       "progress": "completed"
     },
@@ -153,7 +153,7 @@
       "name": "Settsu, JP",
       "lat": 34.77619978240949,
       "lng": 135.57875976562497,
-      "zoom": 14.956982019402115,
+      "zoom": 15.240816491191737,
       "type": "location",
       "progress": "completed"
     },
@@ -161,7 +161,7 @@
       "name": "Shinano, JP",
       "lat": 36.836793742800126,
       "lng": 138.18295898437498,
-      "zoom": 14.956982019402115,
+      "zoom": 15.240816491191737,
       "type": "location",
       "progress": "completed"
     },    
@@ -169,7 +169,7 @@
       "name": "Yamagata, JP",
       "lat": 38.23866335069653,
       "lng": 140.41520507812498,
-      "zoom": 14.956982019402115,
+      "zoom": 15.240816491191737,
       "type": "location",
       "progress": "completed"
     },     
@@ -186,7 +186,7 @@
       "name": "Andong, KR",
       "lat": 36.59189112480145,
       "lng": 128.72258789062496,
-      "zoom": 14.956982019402115,
+      "zoom": 15.240816491191737,
       "type": "location",
       "progress": "completed"
     },
@@ -194,7 +194,7 @@
       "name": "Daebyeong, KR",
       "lat": 35.53315603953163,
       "lng": 128.02139648437497,
-      "zoom": 14.956982019402115,
+      "zoom": 15.240816491191737,
       "type": "location",
       "progress": "completed"
     },
@@ -202,7 +202,7 @@
       "name": "Dongrae, KR",
       "lat": 37.524992794261486,
       "lng": 129.05850585937497,
-      "zoom": 14.956982019402115,
+      "zoom": 15.240816491191737,
       "type": "location",
       "progress": "completed"
     },
@@ -210,7 +210,7 @@
       "name": "Gimcheon, KR",
       "lat": 36.11253059248792,
       "lng": 128.078173828125,
-      "zoom": 14.956982019402115,
+      "zoom": 15.240816491191737,
       "type": "location",
       "progress": "completed"
     },
@@ -218,7 +218,7 @@
       "name": "Gunsan, KR",
       "lat": 35.98120673349115,
       "lng": 126.69512695312497,
-      "zoom": 14.956982019402115,
+      "zoom": 15.240816491191737,
       "type": "location",
       "progress": "completed"
     },
@@ -226,7 +226,7 @@
       "name": "Seogwipo, KR",
       "lat": 33.2604441424112,
       "lng": 126.55731445312497,
-      "zoom": 14.956982019402115,
+      "zoom": 15.240816491191737,
       "type": "location",
       "progress": "completed"
     },
@@ -234,7 +234,7 @@
       "name": "Seosan, KR",
       "lat": 36.80020665991281,
       "lng": 126.43461914062496,
-      "zoom": 14.956982019402115,
+      "zoom": 15.240816491191737,
       "type": "location",
       "progress": "completed"
     },
@@ -242,7 +242,7 @@
       "name": "Yeosu, KR",
       "lat": 34.73634009568205,
       "lng": 127.66315429687498,
-      "zoom": 14.956982019402115,
+      "zoom": 15.240816491191737,
       "type": "location",
       "progress": "completed"
     },  
@@ -259,7 +259,7 @@
       "name": "Taitung, TW",
       "lat": 22.768482746296307,
       "lng": 121.16293945312498,
-      "zoom": 14.956982019402115,
+      "zoom": 15.240816491191737,
       "type": "location",
       "progress": "completed"
     },
@@ -268,7 +268,7 @@
       "name": "Donetsk, UA",
       "lat": 47.997744373184595,
       "lng": 37.782685546875,
-      "zoom": 14.956982019402115,
+      "zoom": 15.240816491191737,
       "type": "location",
       "progress": "completed"
     },
@@ -293,7 +293,7 @@
       "name": "Houston, US",
       "lat": 29.85962521917522,
       "lng": -95.35262695312501,
-      "zoom": 14.956982019402115,
+      "zoom": 15.240816491191737,
       "type": "location",
       "progress": "completed"
     },
@@ -301,7 +301,7 @@
       "name": "Washington, US",
       "lat": 38.964124560997604,
       "lng": -76.9768069719726,
-      "zoom": 14.956982019402115,
+      "zoom": 15.240816491191737,
       "type": "location",
       "progress": "completed"
     },
@@ -310,7 +310,7 @@
       "name": "Cape Town, ZA",
       "lat": -33.902737619152546,
       "lng": 18.386630859374993,
-      "zoom": 14.956982019402115,
+      "zoom": 15.240816491191737,
       "type": "location",
       "progress": "completed"
     }
