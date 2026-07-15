@@ -52,6 +52,7 @@
     { "url": "https://i.imgur.com/1vfUw50.png", "chunk": [1746, 790], "coords": [386, 317], "name": "luke77_7 #36", "loc": "?lat=37.94842537603441&lng=126.98463867187496&zoom=15.240816491191737" },
     { "url": "https://i.imgur.com/1vfUw50.png", "chunk": [1750, 790], "coords": [824, 704], "name": "luke77_7 #37", "loc": "?lat=37.894761839016596&lng=127.76475585937496&zoom=15.240816491191737" },
     { "url": "https://i.imgur.com/1vfUw50.png", "chunk": [777, 1157], "coords": [593, 626], "name": "luke77_7 #38", "loc": "?lat=-22.861811000636646&lng=-43.311005859375015&zoom=15.240816491191737" }
+    { "url": "https://i.imgur.com/QJGSbCB.png", "chunk": [1760, 804], "coords": [56, 781], "name": "luke77_7 #39", "loc": "?lat=35.9148932440703&lng=129.39038085937494&zoom=15.000000000000012" }
 
   ],
   "regions": {
@@ -247,6 +248,14 @@
       "lat": 37.894761839016596,
       "lng": 127.76475585937496,
       "zoom": 15.240816491191737,
+      "type": "location",
+      "progress": "completed"
+    },
+    "munchungri": {
+      "name": "Munchung-ri, KR",
+      "lat": 35.9148932440703,
+      "lng": 129.39038085937494,
+      "zoom": 15.000000000000012,
       "type": "location",
       "progress": "completed"
     },
