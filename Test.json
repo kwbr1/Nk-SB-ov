@@ -53,7 +53,8 @@
     { "url": "https://i.imgur.com/1vfUw50.png", "chunk": [1750, 790], "coords": [824, 704], "name": "luke77_7 #37", "loc": "?lat=37.894761839016596&lng=127.76475585937496&zoom=15.240816491191737" },
     { "url": "https://i.imgur.com/1vfUw50.png", "chunk": [777, 1157], "coords": [593, 626], "name": "luke77_7 #38", "loc": "?lat=-22.861811000636646&lng=-43.311005859375015&zoom=15.240816491191737" },
     { "url": "https://i.imgur.com/QJGSbCB.png", "chunk": [1760, 804], "coords": [56, 781], "name": "luke77_7 #39", "loc": "?lat=35.9148932440703&lng=129.39038085937494&zoom=15.000000000000012" },
-    { "url": "https://i.imgur.com/Vqeuwy9.png", "chunk": [1747, 793], "coords": [494, 619], "name": "luke77_7 #40", "loc": "?lat=37.49152690397698&lng=127.17870117187499&zoom=16.134011115251777" }
+    { "url": "https://i.imgur.com/Vqeuwy9.png", "chunk": [1747, 793], "coords": [494, 619], "name": "luke77_7 #40", "loc": "?lat=37.49152690397698&lng=127.17870117187499&zoom=16.134011115251777" },
+    { "url": "https://i.imgur.com/dS4VlZg.png", "chunk": [1751, 793], "coords": [1751, 793], "name": "luke77_7 #41", "loc": "?lat=37.45706926145401&lng=127.827861328125&zoom=14.597809669394213" }
 
   ],
   "regions": {
@@ -273,6 +274,14 @@
       "lat": 37.94842537603441,
       "lng": 126.98463867187496,
       "zoom": 15.240816491191737,
+      "type": "location",
+      "progress": "completed"
+    },
+    "okgyeri": {
+      "name": "Okgye-ri, KR",
+      "lat": 37.45706926145401,
+      "lng": 127.827861328125,
+      "zoom": 14.597809669394213,
       "type": "location",
       "progress": "completed"
     },
