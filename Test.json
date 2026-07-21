@@ -55,7 +55,8 @@
     { "url": "https://i.imgur.com/QJGSbCB.png", "chunk": [1760, 804], "coords": [56, 781], "name": "luke77_7 #39", "loc": "?lat=35.9148932440703&lng=129.39038085937494&zoom=15.000000000000012" },
     { "url": "https://i.imgur.com/Vqeuwy9.png", "chunk": [1747, 793], "coords": [494, 619], "name": "luke77_7 #40", "loc": "?lat=37.49152690397698&lng=127.17870117187499&zoom=16.134011115251777" },
     { "url": "https://i.imgur.com/6qdcLhG.png", "chunk": [1751, 793], "coords": [178, 830], "name": "luke77_7 #41", "loc": "?lat=37.45706926145401&lng=127.827861328125&zoom=14.597809669394213" },
-    { "url": "https://i.imgur.com/6qdcLhG.png", "chunk": [1748, 789], "coords": [782, 895], "name": "luke77_7 #42", "loc": "?lat=38.00509698267861&lng=127.40651367187496&zoom=14.597809669394213" }
+    { "url": "https://i.imgur.com/6qdcLhG.png", "chunk": [1748, 789], "coords": [782, 895], "name": "luke77_7 #42", "loc": "?lat=38.00509698267861&lng=127.40651367187496&zoom=14.597809669394213" }.
+    { "url": "https://i.imgur.com/6qdcLhG.png", "chunk": [1751, 792], "coords": [230, 933], "name": "luke77_7 #43", "loc": "?lat=37.584218490930354&lng=127.86213867187499&zoom=13.490039641222765" }
 
   ],
   "regions": {
@@ -325,7 +326,15 @@
       "zoom": 15.240816491191737,
       "type": "location",
       "progress": "completed"
-    },  
+    },
+    "yunchiri": {
+      "name": "Yunchi-ri, KR",
+      "lat": 37.584218490930354,
+      "lng": 127.86213867187499,
+      "zoom": 13.490039641222765,
+      "type": "location",
+      "progress": "completed"
+    },
     "yunchon-ri": {
       "name": "Yunchon-ri, KR",
       "lat": 37.41896601907568,
