@@ -234,6 +234,14 @@
       "type": "location",
       "progress": "completed"
     },
+    "gasan": {
+      "name": "Gasan, KR",
+      "lat": 36.096340146861536,
+      "lng": 128.558583984375,
+      "zoom": 13.935346244077452,
+      "type": "location",
+      "progress": "completed"
+    },
     "gimcheon": {
       "name": "Gimcheon, KR",
       "lat": 36.11253059248792,
