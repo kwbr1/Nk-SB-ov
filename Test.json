@@ -79,7 +79,7 @@
     { "url": "https://i.imgur.com/RGLDppR.png", "chunk": [1744, 810], "coords": [51, 366], "name": "luke77_7 #59", "loc": "?lat=35.10977143267101&lng=126.57629882812498&zoom=13.868701379304447" },
     { "url": "https://i.imgur.com/HuIW9wE.png", "chunk": [1750, 797], "coords": [651, 838], "name": "luke77_7 #60", "loc": "?lat=36.890938637707094&lng=127.73750976562496&zoom=14.075841753301349" },
     { "url": "https://i.imgur.com/st8FX61.png", "chunk": [1231, 734], "coords": [399, 546], "name": "luke77_7 #61", "loc": "?lat=45.260226288996876&lng=36.46168945312497&zoom=13.990951021749547" },
-    { "url": "https://i.imgur.com/1vfUw50.png", "chunk": [1817, 805], "coords": [369, 186], "name": "luke77_7 #62", "loc": "?lat=37.093114224913286&lng=126.72905273437499&zoom=15.240816491191737" }
+    { "url": "https://i.imgur.com/1vfUw50.png", "chunk": [1817, 805], "coords": [369, 186], "name": "luke77_7 #62", "loc": "?lat=35.85878220875765&lng=139.46211914062496&zoom=15.430969665230005" }
 
   ],
   "regions": {
@@ -210,6 +210,14 @@
       "name": "Miyazaki, JP",
       "lat": 31.925982916703354,
       "lng": 131.45053710937498,
+      "zoom": 15.240816491191737,
+      "type": "location",
+      "progress": "completed"
+    },
+    "sayama": {
+      "name": "Sayama, JP",
+      "lat": 35.85878220875765,
+      "lng": 139.46211914062496,
       "zoom": 15.240816491191737,
       "type": "location",
       "progress": "completed"
