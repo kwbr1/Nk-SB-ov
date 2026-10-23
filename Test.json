@@ -76,10 +76,11 @@
     { "url": "https://i.imgur.com/jAF9Epy.png", "chunk": [1764, 785], "coords": [542, 912], "name": "luke77_7 #57", "loc": "?lat=38.54136004877967&lng=130.20688476562498&zoom=12.840382077020992" },
     { "url": "https://i.imgur.com/ExW7ug5.png", "chunk": [1763, 786], "coords": [128, 481], "name": "marsonmao #1", "loc": "?lat=38.47313327444617&lng=129.93670898437495&zoom=13.836505282005035" },
     { "url": "https://i.imgur.com/zgtxp8k.png", "chunk": [1764, 786], "coords": [817, 230], "name": "luke77_7 #58", "loc": "?lat=38.50395337040726&lng=130.240283203125&zoom=13.464574801794306" },
-    { "url": "https://i.imgur.com/RGLDppR.png", "chunk": [1744, 810], "coords": [51, 366], "name": "luke77_7 #59", "loc": "?lat=35.10977143267101&lng=126.57629882812498&zoom=13.868701379304447" },
+    { "url": "https://i.imgur.com/st8FX61.png", "chunk": [1744, 810], "coords": [51, 366], "name": "luke77_7 #59", "loc": "?lat=35.10977143267101&lng=126.57629882812498&zoom=13.868701379304447" },
     { "url": "https://i.imgur.com/HuIW9wE.png", "chunk": [1750, 797], "coords": [651, 838], "name": "luke77_7 #60", "loc": "?lat=36.890938637707094&lng=127.73750976562496&zoom=14.075841753301349" },
     { "url": "https://i.imgur.com/st8FX61.png", "chunk": [1231, 734], "coords": [399, 546], "name": "luke77_7 #61", "loc": "?lat=45.260226288996876&lng=36.46168945312497&zoom=13.990951021749547" },
-    { "url": "https://i.imgur.com/1vfUw50.png", "chunk": [1817, 805], "coords": [369, 186], "name": "luke77_7 #62", "loc": "?lat=35.85878220875765&lng=139.46211914062496&zoom=15.430969665230005" }
+    { "url": "https://i.imgur.com/1vfUw50.png", "chunk": [1817, 805], "coords": [369, 186], "name": "luke77_7 #62", "loc": "?lat=35.85878220875765&lng=139.46211914062496&zoom=15.430969665230005" },
+    { "url": "https://i.imgur.com/x7o5Mhw.png", "chunk": [1747, 805], "coords": [973, 764], "name": "luke77_7 #63", "loc": "?lat=35.762560537473384&lng=127.27696289062496&zoom=13.337325254971956" }
 
   ],
   "regions": {
@@ -356,6 +357,14 @@
       "lat": 35.98120673349115,
       "lng": 126.69512695312497,
       "zoom": 15.240816491191737,
+      "type": "location",
+      "progress": "completed"
+    },
+    "junggilri": {
+      "name": "Junggil-ri, KR",
+      "lat": 37.49766370322055,
+      "lng": 127.01592740302732,
+      "zoom": 13.60251327280089,
       "type": "location",
       "progress": "completed"
     },
