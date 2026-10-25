@@ -80,7 +80,8 @@
     { "url": "https://i.imgur.com/HuIW9wE.png", "chunk": [1750, 797], "coords": [651, 838], "name": "luke77_7 #60", "loc": "?lat=36.890938637707094&lng=127.73750976562496&zoom=14.075841753301349" },
     { "url": "https://i.imgur.com/st8FX61.png", "chunk": [1231, 734], "coords": [399, 546], "name": "luke77_7 #61", "loc": "?lat=45.260226288996876&lng=36.46168945312497&zoom=13.990951021749547" },
     { "url": "https://i.imgur.com/1vfUw50.png", "chunk": [1817, 805], "coords": [369, 186], "name": "luke77_7 #62", "loc": "?lat=35.85878220875765&lng=139.46211914062496&zoom=15.430969665230005" },
-    { "url": "https://i.imgur.com/x7o5Mhw.png", "chunk": [1747, 805], "coords": [973, 764], "name": "luke77_7 #63", "loc": "?lat=35.762560537473384&lng=127.27696289062496&zoom=13.337325254971956" }
+    { "url": "https://i.imgur.com/x7o5Mhw.png", "chunk": [1747, 805], "coords": [973, 764], "name": "luke77_7 #63", "loc": "?lat=35.762560537473384&lng=127.27696289062496&zoom=13.337325254971956" },
+    { "url": "https://i.imgur.com/QJGSbCB.png", "chunk": [481, 845], "coords": [479, 753], "name": "luke77_7 #64", "loc": "?lat=29.872429853450257&lng=-95.35965820312501&zoom=15.227890717925398" }
 
   ],
   "regions": {
@@ -519,9 +520,9 @@
     },
     "houston": {
       "name": "Houston, US",
-      "lat": 29.85962521917522,
-      "lng": -95.35262695312501,
-      "zoom": 15.240816491191737,
+      "lat": 29.872429853450257,
+      "lng": -95.35965820312501,
+      "zoom": 15.227890717925398,
       "type": "location",
       "progress": "completed"
     },
