@@ -82,6 +82,7 @@
     { "url": "https://i.imgur.com/1vfUw50.png", "chunk": [1817, 805], "coords": [369, 186], "name": "luke77_7 #62", "loc": "?lat=35.85878220875765&lng=139.46211914062496&zoom=15.430969665230005" },
     { "url": "https://i.imgur.com/x7o5Mhw.png", "chunk": [1747, 805], "coords": [973, 764], "name": "luke77_7 #63", "loc": "?lat=35.762560537473384&lng=127.27696289062496&zoom=13.337325254971956" },
     { "url": "https://i.imgur.com/QJGSbCB.png", "chunk": [481, 845], "coords": [479, 753], "name": "luke77_7 #64", "loc": "?lat=29.872429853450257&lng=-95.35965820312501&zoom=15.227890717925398" }
+    { "url": "https://i.imgur.com/st8FX61.png", "chunk": [1747, 793], "coords": [382, 573], "name": "luke77_7 #65", "loc": "?lat=37.4891558344365&lng=127.161650390625&zoom=14.01680256828226" }
 
   ],
   "regions": {
@@ -403,9 +404,9 @@
     },
     "sanseongri": {
       "name": "Sanseong-ri, KR",
-      "lat": 37.49152690397698,
-      "lng": 127.17870117187499,
-      "zoom": 16.252366974067957,
+      "lat": 37.48999269110391,
+      "lng": 127.17043945312497,
+      "zoom": 14.016802568282271,
       "type": "location",
       "progress": "completed"
     },
