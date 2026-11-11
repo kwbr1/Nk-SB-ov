@@ -87,6 +87,7 @@
     { "url": "https://i.imgur.com/QJGSbCB.png", "chunk": [1748, 794], "coords": [101, 609], "name": "luke77_7 #67", "loc": "?lat=37.34926930873239&lng=127.28909179687497&zoom=15.039130959141936" },
     { "url": "https://i.imgur.com/Rn5zGyw.png", "chunk": [1746, 793], "coords": [420, 615], "name": "luke77_7 #68", "loc": "?lat=37.49013216630364&lng=126.99711914062497&zoom=14.880331764351892" },
     { "url": "https://i.imgur.com/ESyowp7.png", "chunk": [1754, 795], "coords": [427, 615], "name": "luke77_7 #69", "loc": "?lat=37.20142136737058&lng=128.40301757812495&zoom=13.88420855936772" }
+    { "url": "https://i.imgur.com/QJGSbCB.png", "chunk": [1752, 789], "coords": [641, 48], "name": "luke77_7 #70", "loc": "?lat=38.12245756360498&lng=128.08731445312497&zoom=15.039130959141795" }
 
   ],
   "regions": {
@@ -442,6 +443,14 @@
       "name": "Seosan, KR",
       "lat": 36.80020665991281,
       "lng": 126.43461914062496,
+      "zoom": 15.240816491191737,
+      "type": "location",
+      "progress": "completed"
+    },
+    "yachonri": {
+      "name": "Yachon-Ri, KR",
+      "lat": 38.46625198928655,
+      "lng": 130.24045898437498,
       "zoom": 15.240816491191737,
       "type": "location",
       "progress": "completed"
