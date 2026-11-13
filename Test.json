@@ -89,7 +89,7 @@
     { "url": "https://i.imgur.com/ESyowp7.png", "chunk": [1754, 795], "coords": [427, 615], "name": "luke77_7 #69", "loc": "?lat=37.20142136737058&lng=128.40301757812495&zoom=13.88420855936772" },
     { "url": "https://i.imgur.com/QJGSbCB.png", "chunk": [1752, 789], "coords": [641, 48], "name": "luke77_7 #70", "loc": "?lat=38.12245756360498&lng=128.08731445312497&zoom=15.039130959141795" },
     { "url": "https://i.imgur.com/1vfUw50.png", "chunk": [757, 1158], "coords": [157, 704], "name": "luke77_7 #71", "loc": "?lat=-23.036305148079236&lng=-46.90327148437501&zoom=15.398135666086267" },
-    { "url": "https://i.imgur.com/1vfUw50.png", "chunk": [1817, 802], "coords": [929, 354], "name": "luke77_7 #72", "loc": "?lat=37.49766370322055&lng=127.01592740302732&zoom=13.60251327280089" },
+    { "url": "https://i.imgur.com/1vfUw50.png", "chunk": [1817, 802], "coords": [929, 354], "name": "luke77_7 #72", "loc": "?lat=36.26107091445657&lng=139.56055664062495&zoom=15.522938411627923" },
     { "url": "https://i.imgur.com/1vfUw50.png", "chunk": [1819, 811], "coords": [491, 387], "name": "luke77_7 #73", "loc": "?lat=34.97045602457756&lng=139.83512695312498&zoom=15.478672942592736" }
 
   ],
@@ -259,9 +259,9 @@
     },   
     "tatebayashi": {
       "name": "Tatebayashi, JP",
-      "lat": 37.49766370322055,
-      "lng": 127.01592740302732,
-      "zoom": 13.60251327280089,
+      "lat": 36.26107091445657,
+      "lng": 139.56055664062495,
+      "zoom": 15.522938411627923,
       "type": "location",
       "progress": "completed"
     },
